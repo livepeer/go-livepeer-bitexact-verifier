@@ -1,5 +1,7 @@
 # go-livepeer-bitexact-verifier
 
+Verification code based on bitexact comparison of video transcoding.
+
 ## Building
 
 ```
